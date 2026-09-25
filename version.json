@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Ultra-accurate GPS with persistent Saved Top Speed record, multipath spike rejection, and cockpit peak speed badge."
+  "releaseNotes": "Added manual Light Control section (Headlight, High Beam, Left/Right Signals, Brake Light, All Off) over Nordic BLE UART bench test."
 }

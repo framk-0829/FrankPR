@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Added manual Light Control section (Headlight, High Beam, Left/Right Signals, Brake Light, All Off) over Nordic BLE UART bench test."
+  "releaseNotes": "Fixed update flow to prevent automatic installer launches and Play Protect scan prompts on startup."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Automatic phone GPS speedometer & seamless in-app auto updates."
+  "releaseNotes": "Ultra-accurate 100ms GPS with L1+L5 multi-constellation tracking, zero-lag velocity filter, and snappy gauge response."
 }

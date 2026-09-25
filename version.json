@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.0.10",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Fixed update flow to prevent automatic installer launches and Play Protect scan prompts on startup."
+  "releaseNotes": "Fixed BLE transmission to ESP32: removed CCCD/notification collision, verified service discovery, added in-app write logging and live BLE status."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
+  "versionCode": 14,
+  "versionName": "1.0.13",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Fix BLE light control: switched writable command characteristic to 6E400002 (Nordic UART RX), strictly blocked writes to 6E400003, and added prominent in-app BLE write error alerts."
+  "releaseNotes": "Fix BLE device picker: display 'FrankPR_ESP32' on discovery, show 'Connected' and 'Disconnected' states clearly, eliminate 'Not Found' errors after connection, and add in-app live BLE debug activity log."
 }

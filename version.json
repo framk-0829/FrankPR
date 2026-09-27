@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
+  "versionCode": 15,
+  "versionName": "1.0.14",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Fix BLE device picker: display 'FrankPR_ESP32' on discovery, show 'Connected' and 'Disconnected' states clearly, eliminate 'Not Found' errors after connection, and add in-app live BLE debug activity log."
+  "releaseNotes": "Seamless automatic updates: real-time CDN cache bypass, foreground auto-check on resume, automatic background download, and instant one-tap system installer prompt."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
+  "versionCode": 12,
+  "versionName": "1.0.11",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Fixed BLE transmission to ESP32: removed CCCD/notification collision, verified service discovery, added in-app write logging and live BLE status."
+  "releaseNotes": "Auto-connect enabled by default, pending command queueing when disconnected, preferred WRITE_NO_RESPONSE for ESP32 UART, fixed switch touch targets, and robust BLE auto-pairing."
 }

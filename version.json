@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
+  "versionCode": 13,
+  "versionName": "1.0.12",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Auto-connect enabled by default, pending command queueing when disconnected, preferred WRITE_NO_RESPONSE for ESP32 UART, fixed switch touch targets, and robust BLE auto-pairing."
+  "releaseNotes": "Fix BLE light control: switched writable command characteristic to 6E400002 (Nordic UART RX), strictly blocked writes to 6E400003, and added prominent in-app BLE write error alerts."
 }

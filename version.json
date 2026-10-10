@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
+  "versionCode": 17,
+  "versionName": "1.0.16",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Customizable Dashboard System: Selectable Racing, Factory OEM, Night Vision (Red/Amber), and Custom modes. Circular dial, dynamic arc, and digital speedometers. Widget visibility toggles, portrait/landscape orientation controls, live preview, and restore default layout."
+  "releaseNotes": "Four Completely Different Dashboard GUIs: 1) RACING (futuristic superbike cockpit, apex tachometer arc & shift lights, large center speed), 2) FACTORY (clean OEM motorcycle instrument cluster with traditional speedometer dial and telltales), 3) NIGHT (anti-glare dark HUD with dim red/amber instrument lighting and simplified vitals), 4) CUSTOM (user-personalized speedometer style, accent colors, modular grid/wing/stacked layouts, widget toggles). Includes prominent on-dashboard MODE selector with interactive preview cards."
 }

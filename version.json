@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
+  "versionCode": 21,
+  "versionName": "1.0.20",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "5 Authentic Real-World Speedometer Gauge Styles: 1) Cyan Semi-Circle Dial: 180° cyan arc gauge with radial ticks (0-180), bold red mechanical needle with solid circular red hub, and cyan odometer pill (000002). 2) Color TFT Superbike: Universal color TFT motorcycle cockpit with top telltale strip, arching segmented LED tachometer (0-12k RPM), flanking curved vertical fuel/temp arcs, and prominent N GEAR indicator. 3) Daytona Compact Dash: Daytona-style compact racing motorcycle meter with top horizontal RPM dot-matrix ladder (1-13k), large italic speed, boxed gear [N], and battery voltage. 4) Dual Angular GT: European supercar virtual cockpit with dual opposing angular gauge brackets and warm golden-amber glowing needle beams. 5) Shelby GT Track Cluster: Ford Mustang Shelby GT500 12-inch digital track cluster with dual high-rev dials, massive center digital speed, and embossed SHELBY GT500 script badge."
+  "releaseNotes": "2026 Supercar & GT Racing Dashboard: 1) Large, beautiful central digital GPS speed display encircled by an authentic 250° precision RPM tachometer arc with calibrated graduation ticks and subtle redline sector. 2) Pure OLED deep black background with radial vignette depth, premium white typography, electric cyan accents, and restrained redline highlights. 3) Symmetrical sequential F1/GT3 shift lights across the dial crown. 4) Compact, neatly aligned telemetry wings for Trip, Peak Velocity, GPS precision, BLE link, battery volts, and coolant temperature. 5) Strict sensor integrity: never fabricates missing sensor data."
 }

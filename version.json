@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
+  "versionCode": 22,
+  "versionName": "1.0.21",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "2026 Supercar & GT Racing Dashboard: 1) Large, beautiful central digital GPS speed display encircled by an authentic 250° precision RPM tachometer arc with calibrated graduation ticks and subtle redline sector. 2) Pure OLED deep black background with radial vignette depth, premium white typography, electric cyan accents, and restrained redline highlights. 3) Symmetrical sequential F1/GT3 shift lights across the dial crown. 4) Compact, neatly aligned telemetry wings for Trip, Peak Velocity, GPS precision, BLE link, battery volts, and coolant temperature. 5) Strict sensor integrity: never fabricates missing sensor data."
+  "releaseNotes": "Supercar Instrument Cluster & Upgraded Previews: 1) Realistic 2026 supercar digital cockpit with calibrated 250° radial GPS velocity gauge (0-160 MPH / 240 KM/H). 2) Fine measurement ticks, major numbering, hairlines, and subtle redline sector (85%-100%). 3) Large pure-white digital speed numerals with smooth 70ms laser sweep needle responding to real GPS velocity. 4) Flanking wings for Trip, Peak speed, GPS precision, BLE link, battery voltage, and coolant temp. 5) Strict sensor integrity: displays calibrated GPS speed and standby indicator when RPM is offline. 6) Elevated settings preview card with high-fidelity realistic renderings."
 }

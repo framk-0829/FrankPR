@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
+  "versionCode": 16,
+  "versionName": "1.0.15",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Seamless automatic updates: real-time CDN cache bypass, foreground auto-check on resume, automatic background download, and instant one-tap system installer prompt."
+  "releaseNotes": "Customizable Dashboard System: Selectable Racing, Factory OEM, Night Vision (Red/Amber), and Custom modes. Circular dial, dynamic arc, and digital speedometers. Widget visibility toggles, portrait/landscape orientation controls, live preview, and restore default layout."
 }

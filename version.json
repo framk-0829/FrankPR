@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
+  "versionCode": 20,
+  "versionName": "1.0.19",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Apex GT3 Superbike Velocity Cockpit: 1) Monolithic 108sp central digital speed readout with pure white high-contrast daylight & night clarity. 2) Overhead calibrated GT3 tachometer ribbon (0-10,000+ RPM) with textured redline hatching. 3) Formula 1 / GT3 symmetrical sequential shift light array (10 micro-LED beacons). 4) CNC-machined integrated gear binnacle ([N] in racing green, [1-6] in electric cyan). 5) Precision telemetry wings for peak speed, trip distance, digital compass heading, and GPS satellite lock quality. 6) Strict sensor availability enforcement."
+  "releaseNotes": "5 Authentic Real-World Speedometer Gauge Styles: 1) Cyan Semi-Circle Dial: 180° cyan arc gauge with radial ticks (0-180), bold red mechanical needle with solid circular red hub, and cyan odometer pill (000002). 2) Color TFT Superbike: Universal color TFT motorcycle cockpit with top telltale strip, arching segmented LED tachometer (0-12k RPM), flanking curved vertical fuel/temp arcs, and prominent N GEAR indicator. 3) Daytona Compact Dash: Daytona-style compact racing motorcycle meter with top horizontal RPM dot-matrix ladder (1-13k), large italic speed, boxed gear [N], and battery voltage. 4) Dual Angular GT: European supercar virtual cockpit with dual opposing angular gauge brackets and warm golden-amber glowing needle beams. 5) Shelby GT Track Cluster: Ford Mustang Shelby GT500 12-inch digital track cluster with dual high-rev dials, massive center digital speed, and embossed SHELBY GT500 script badge."
 }

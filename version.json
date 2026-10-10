@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.16",
+  "versionCode": 18,
+  "versionName": "1.0.17",
   "apkUrl": "https://raw.githubusercontent.com/framk-0829/FrankPR/main/FrankPR-latest.apk",
-  "releaseNotes": "Four Completely Different Dashboard GUIs: 1) RACING (futuristic superbike cockpit, apex tachometer arc & shift lights, large center speed), 2) FACTORY (clean OEM motorcycle instrument cluster with traditional speedometer dial and telltales), 3) NIGHT (anti-glare dark HUD with dim red/amber instrument lighting and simplified vitals), 4) CUSTOM (user-personalized speedometer style, accent colors, modular grid/wing/stacked layouts, widget toggles). Includes prominent on-dashboard MODE selector with interactive preview cards."
+  "releaseNotes": "12 Modern Speedometer Styles: 1) Dynamic Sweep Arc, 2) Classic Analog Dial, 3) Simple Digital, 4) Cyberpunk TFT Bar Matrix, 5) Fighter Jet Aviation HUD, 6) Apex Superbike Track Dial, 7) Hypercar Concentric Dual Halo, 8) 1980s Retro Digidash Tape, 9) Scandinavian Minimalist Radial Ring, 10) Sci-Fi Hexagonal Pod, 11) Vintage Cafe Racer with Rolling Tumbler Odometer, 12) MotoGP Vertical Velocity Column. Fully animated, theme-aware, and selectable in Settings & Custom Mode."
 }
